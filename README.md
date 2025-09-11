@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I’m Mayank Mishra  
 
-<!--
-**Mayank-508/Mayank-508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a Computer Science student passionate about **mobile app development** and building impactful digital solutions.  
+🚀 I specialize in **Flutter** and **Firebase**, with experience in creating cross-platform apps that solve real-world problems.  
+🌱 Currently, I’m exploring **backend development** and strengthening my skills in **system design** and **databases**.  
 
-Here are some ideas to get you started:
+## 🛠️ Projects I’ve worked on
+- **KrishiBazaar** 🌾 – A marketplace app connecting farmers and buyers  
+- **NewsApp** 📰 – A modern news application with auto-scrolling headlines and source switching  
+- **InboxPro** 📩 – An **email app** with smart features including **AI-generated replies**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Interests
+- System Design & Architecture  
+- Databases & Backend Development  
+- Problem-solving through DSA & Competitive Programming  
+
+## 🤝 Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/mayankmishra24)  
+- [LeetCode](https://leetcode.com/u/mishra_mayank/)  
+- [CodeChef](https://www.codechef.com/users/mayankmishra53)  
+
+✨ _“Building apps that make a difference, one line of code at a time.”_
