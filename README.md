@@ -17,6 +17,6 @@
 ## 🤝 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/mayankmishra24)  
 - [LeetCode](https://leetcode.com/u/mishra_mayank/)  
-- [CodeChef](https://www.codechef.com/users/mayankmishra53)  
+- [CodeChef](https://www.codechef.com/users/bold_breeze_69)  
 
 ✨ _“Building apps that make a difference, one line of code at a time.”_
