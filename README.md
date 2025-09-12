@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mayank Mishra  
 
-💻 I’m a Computer Science student passionate about **mobile app development** and building impactful digital solutions.  
+💻 I’m an Information Technology student passionate about **mobile app development** and building impactful digital solutions.  
 🚀 I specialize in **Flutter** and **Firebase**, with experience in creating cross-platform apps that solve real-world problems.  
 🌱 Currently, I’m exploring **backend development** and strengthening my skills in **system design** and **databases**.  
 
