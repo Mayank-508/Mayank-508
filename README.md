@@ -8,7 +8,7 @@
 - **KrishiBazaar** 🌾 – A marketplace app connecting farmers and buyers  
 - **NewsApp** 📰 – A modern news application with auto-scrolling headlines and source switching  
 - **InboxPro** 📩 – An **email app** with smart features including **AI-generated replies**  
-
+- **Employee Management System - Using the RestFul API and spring Boot Backend.
 ## 📚 Interests
 - System Design & Architecture  
 - Databases & Backend Development  
