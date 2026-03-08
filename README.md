@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Mayank Mishra  
-
-💻 I’m an Information Technology student passionate about **mobile app development** and building impactful digital solutions.  
-🚀 I specialize in **Flutter** and **Firebase**, with experience in creating cross-platform apps that solve real-world problems.  
+A backend engineer focused on scalable systems, API design, and clean architecture with Java & Spring Boot. Also build Flutter clients for API-driven apps. 
 🌱🌱 Currently working with **Spring Boot, JPA/Hibernate, REST APIs, and relational databases (MySQL/PostgreSQL)**, while strengthening my skills in **system design**, **database design**, and **scalable backend architecture**. 
 
 ## 🛠️ Projects I’ve worked on
