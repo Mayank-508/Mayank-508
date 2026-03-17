@@ -1,7 +1,20 @@
 # 👋 Hi, I’m Mayank Mishra  
-A backend engineer focused on scalable systems, API design, and clean architecture with Java & Spring Boot. Also build Flutter clients for API-driven apps. 
-🌱🌱 Currently working with **Spring Boot, JPA/Hibernate, REST APIs, and relational databases (MySQL/PostgreSQL)**, while strengthening my skills in **system design**, **database design**, and **scalable backend architecture**. 
-In parallel with backend engineering, I architect and deliver production-grade Flutter applications deployed on the Play Store and App Store, designed around API-first principles and clean architecture — enabling seamless integration with scalable Spring Boot systems and positioning me as a backend-driven full-stack engineer.
+
+🚀 Backend Engineer focused on building scalable systems using Java & Spring Boot.
+
+💡 I specialize in:
+- Designing RESTful APIs with clean architecture (Controller-Service-Repository)
+- Implementing secure authentication (JWT, OAuth2)
+- Building scalable backend systems with optimized database design (MySQL/PostgreSQL)
+- Writing maintainable, production-ready code with proper logging, validation, and error handling
+
+🧠 Currently exploring:
+- Microservices Architecture (Service decomposition, API Gateway)
+- Kafka & Event-driven systems (learning phase)
+- CI/CD pipelines & backend deployment
+
+📱 Also experienced in Flutter:
+- Building API-driven mobile apps integrated with Spring Boot backends
 
 ## 🛠️ Projects I’ve worked on
 - **KrishiBazaar** 🌾 – A marketplace app connecting farmers and buyers  
