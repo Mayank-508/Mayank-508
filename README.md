@@ -17,7 +17,7 @@
 - Building API-driven mobile scalable Apps during the 3 months internship where I gained hands-on experience worked on Production apps, present live on playstore.
 
 ## 🛠️ Projects I’ve worked on
-- **KrishiBazaar** 🌾 – A marketplace app connecting farmers and buyers  
+- **KrishiBazaar** 🌾 – A marketplace app connecting farmers and buyers eliminating the middlemen so that farmers earn more while the customers pay less.
 - **InboxPro** 📩 – An **email app** with smart features including **AI-generated replies**  
 - **Employee Management System** - Using the RestFul API and spring Boot Backend.
 ## 📚 Interests
