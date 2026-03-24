@@ -14,6 +14,7 @@
 - CI/CD pipelines & backend deployment
 
 📱 Also experienced in Flutter:
+- Focused on building smooth, high-quality Flutter UIs with attention to animations and user experience.
 - Building API-driven mobile scalable Apps during the 3 months internship where I gained hands-on experience worked on Production apps, present live on playstore.
 
 ## 🛠️ Projects I’ve worked on
